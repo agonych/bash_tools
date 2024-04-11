@@ -72,7 +72,7 @@ Gathers and displays information about the system's current state, including mem
 Clone the repository to your local machine using:
 
 ```bash
-git clone [URL_TO_REPO]
+git clone https://github.com/agonych/bash_tools.git
 ```
 
 Make the scripts executable:
