@@ -67,6 +67,11 @@ Gathers and displays information about the system's current state, including mem
 ./sysinfo.sh
 ```
 
+### `migratios_copy.sh`
+
+Finds all Django migrations in a specified directory and copies them to a new directory.
+This script is useful when you want to migrate a Django project to a new location and preserve the migrations.
+
 ## Installation
 
 Clone the repository to your local machine using:
